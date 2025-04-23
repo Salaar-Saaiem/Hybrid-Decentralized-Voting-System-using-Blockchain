@@ -27,23 +27,22 @@ This Hybrid-Decentralized voting system leverages the Ethereum blockchain to pro
   - Python FastAPI backend managing database operations and voter information.
   - MySQL database for storing voter credentials and roles.
 
-🚀 Features
-🔐 Ethereum-based smart contracts for secure vote casting
+## 🚀 Features
 
-🧠 Node.js backend for serving the frontend and managing authentication
+- 🔐 **Ethereum Smart Contracts** for immutable and secure vote recording
+- 🧠 **Node.js backend** to handle frontend serving and user authentication
+- ⚡ **FastAPI backend (Python)** for database management
+- 💻 **User-friendly frontend** built with HTML, CSS, and JavaScript
+- 🔄 Works on a **local Ethereum blockchain** (e.g., Ganache or Hardhat)
 
-⚡ FastAPI (Python) backend for efficient database operations
 
-💻 User-friendly frontend interface for a smooth voting experience
+## 🛠️ Tech Stack
 
-🔄 Works on a local Ethereum blockchain (e.g., Ganache or Hardhat)
-
-🛠️ Tech Stack
-Blockchain: Ethereum, Solidity
-Backend: Node.js, FastAPI (Python)
-Frontend: HTML, CSS, JavaScript
-Database: (Mention your DB here, e.g., SQLite, PostgreSQL)
-Tools: Web3.js, Metamask, Ganache
+- **Blockchain**: Ethereum, Solidity, Ganache
+- **Backend**: Node.js, FastAPI (Python)
+- **Frontend**: HTML, CSS, JavaScript
+- **Smart Contract Interaction**: Web3.js, MetaMask
+- **Database**: (e.g., SQLite, PostgreSQL) — *Update this accordingly*
 
 ## Prerequisites
 - Node.js and npm
