@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+node_modules
+build
+=======
+node_modules
+build
+>>>>>>> f918b06f1bac24186d5428118080d5e52909381a
+package-lock.json
